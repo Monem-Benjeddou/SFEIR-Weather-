@@ -33,7 +33,7 @@ REACT_APP_OPENCAGE_API_KEY=your_opencage_api_key
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/SFEIR-Weather-.git
+git clone https://github.com/Monem-Benjeddou/SFEIR-Weather-.git
 ```
 
 2. Navigate to the project directory:
